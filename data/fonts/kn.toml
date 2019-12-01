@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Playfair"
+
+# Optional Google font URL
+google_fonts = "Viga:400,700|Fira+Sans"
+
+# Font families
+heading_font = "Viga"
+body_font = "Fira Sans"
+nav_font = "Fira Sans"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
