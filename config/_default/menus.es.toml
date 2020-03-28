@@ -4,6 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  pre = "<i class=\"fas fa-laptop pr-1\" style=\"color: #fff;\"></i>"
   name = "Blog"
   url = "#posts"
   weight = 20
@@ -14,16 +15,25 @@
 #  weight = 30
 
 [[main]]
+  pre = "<i class=\"fas fa-file-alt pr-1\" style=\"color: #fff;\"></i>"
   name = "Publicaciones"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
+[[main]]
+   pre = "<i class=\"fas fa-broadcast-tower pr-1\" style=\"color: #fff;\"></i>"
+   name = "Medios"
+   url = "#projects"
+   weight = 45
+
   [[main]]
+    pre = "<i class=\"fas fa-user pr-1\" style=\"color: #fff;\"></i>"
     name = "Autor"
     url = "#about"
     weight = 50
 
 [[main]]
+  pre = "<i class=\"fas fa-envelope pr-1\" style=\"color: #fff;\"></i>"
   name = "Contacto"
   url = "#contact"
   weight = 60
