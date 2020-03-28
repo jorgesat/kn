@@ -34,9 +34,9 @@ Esta entrada es un tutorial para crear un sitio web personal con CV y blog usand
 
 Usualmente los blogs son sitios dinámicos (un servidor consulta una base de datos y produce el contenido dependiendo de lo que el usuario quiera leer). Con [*hugo*](https://picodotdev.github.io/blog-bitix/2018/05/generador-de-paginas-web-estaticas-y-bitacoras-con-hugo/) podemos crear un sitio web completamente estático (sin bases de datos) y usarlo como blog. ¿Las ventajas? Es mucho más ligero y no necesitas pagar un costoso hospedaje o tener un sitio web gratuito lleno de publicidad. De hecho, con *hugo* puedes crear un sitio web profesional y atractivo y alojarlo gratuitamente en *GitHub* o *GitLab*. Sólo tendrías que pagar si quisieras tener un dominio personalizado pero no es necesario. Otra de las ventajas de *hugo* es que no requiere que aprendas a programar. *Hugo* ofrece la posibilidad de crear tu sitio web usando el lenguaje go, a partir de archivos de texto (con formato markdown) que son muy fáciles de crear y editar.
 
-{{% alert note %}}
+{{< alert note >}}
 Advertencia: No soy programador de carrera y puede que algunos de los términos usados en este artículo no sean los técnicamente correctos.
-{{% /alert %}}
+{{< /alert >}}
 
 ¿Qué necesitas para crear el sitio académico con *hugo*?
 
@@ -98,9 +98,9 @@ git push origin master
 cd ..
 ```
 
-{{% alert note %}}
+{{< alert note >}}
 Ten en cuenta que estos dos últimos pasos son los que necesitarás ejecutar cada vez que quieras actualizar tu sitio, por ejemplo, para agregar una nueva entrada.
-{{% /alert %}}
+{{< /alert >}}
 
 ## Primeros pasos para editar el sitio web
 
