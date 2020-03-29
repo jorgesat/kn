@@ -220,7 +220,7 @@ dup3dias <- function(x)100*exp(log(2)/3*x)
 En el gráfico a continuación, los datos de la evolución de casos en Latinoamérica son comparados con las curvas de crecimiento exponencial calculadas con las funciones anteriores. Las curvas artificiales son agregadas usando `stat_function`.
 
 ``` r
-require(hrbrthemes)
+require(hrbrthemes, ggrepel)
 
 ## Obtener valores máximos y fecha
 fecha2 <- format(max(dd$time), "%d/%m/%Y")
