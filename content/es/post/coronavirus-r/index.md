@@ -268,7 +268,7 @@ print(p2)
 ```
 {{< figure library="true" src="COVID19_casos_latam.png" title="Evolución de casos de COVID-19 en Latinoamérica comparados con curvas de duplicación de casos cada dos y tres días" lightbox="true" >}}
 
-Es de esperarse que las medidas de confinamiento lleven a estas curvas a disminuir su velocidad de crecimiento y a estar muy por debajo de la curva de duplicación cada 3 días. Espero que eso ocurra pronto. Mientras tanto, evita el contacto social, lávate las manos, cuida de tu salud y sé solidario con tus vecinos.
+Es de esperarse que las medidas de confinamiento lleven a estas curvas a disminuir su velocidad de crecimiento y a estar muy por debajo de la curva de duplicación cada 3 días. Espero que eso ocurra pronto. Mientras tanto, evita el contacto físico fuera de tu círculo familiar, cuida de tu salud y sé solidario con tus vecinos.
 
 {{< alert warning >}}
 Esta no es una fuente oficial de información sobre la pandemia de COVID-19. Para consultas y referencias visite el [sitio oficial de la Organización Mundial de la Salud](https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019).
