@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigador
+bio: Químico atmosférico especializado en aerosoles.
 
 interests:
 - Aerosoles

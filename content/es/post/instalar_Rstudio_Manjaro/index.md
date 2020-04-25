@@ -66,6 +66,6 @@ Muchos paquetes de R requerirán un compilador de Fortran. Luego de la instalaci
 sudo pacman -S gcc-fortran
 ```
 
-{{% alert note %}}
+{{< alert note >}}
 Si por desgracia usas Windows, puedes instalar RStudio siguiendo este [tutorial](https://www.youtube.com/watch?v=IyJuTU82ikM).
-{{% /alert %}}
+{{< /alert >}}

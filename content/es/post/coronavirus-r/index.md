@@ -5,8 +5,8 @@ title: "Seguimiento de la pandemia de COVID-19 con R"
 subtitle: "Paquetes y visualizaciones"
 summary: "Paquetes y visualizaciones en R sobre la pandemia de COVID-19. Distribución
 global de casos y evolución en Latinoamérica."
-authors: [Jorge Saturno]
-tags: ["coronavirus", "covid-19", "pandemia","r"]
+authors: [admin]
+tags: ["covid-19", "pandemia","r"]
 categories: []
 date: 2020-03-28T19:33:59+01:00
 lastmod: 2020-03-28T19:33:59+01:00
