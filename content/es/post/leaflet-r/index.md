@@ -8,7 +8,7 @@ authors: [admin]
 tags: ["r", "mapas", "leaflet", "covid-19", "hugo"]
 categories: []
 date: 2020-04-25T16:17:49+02:00
-lastmod: 2020-04-25T16:17:49+02:00
+lastmod: 2020-04-27T18:31:49+02:00
 featured: false
 draft: false
 
@@ -89,6 +89,12 @@ Para este ejemplo vamos a agregar datos del paquete [`{coronavirus}`](https://gi
 
 ``` r
 ## Cargar datos
+
+# Para instalar el paquete {coronavirus}:
+# devtools::install_github("RamiKrispin/coronavirus")
+
+require(coronavirus)
+
 datacov <- coronavirus %>%
   # Seleccionar datos de interés
   select(country = Country.Region, type, cases, Lat, Long) %>%
