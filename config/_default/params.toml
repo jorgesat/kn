@@ -24,6 +24,13 @@ font = "kn" # kn fonts no están funcionando!!!
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "L"
 
+# Show related content at the bottom of pages?
+show_related = {page = false, post = true, project = true, publication = true, talk = true}
+   
+# Show a copyright license from creativecommons.org in the site footer?
+# Page specific copyright licenses are also possible by adding this option to a page's front matter.
+copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+
 ############################
 ## Basic Info
 ############################
@@ -114,6 +121,8 @@ contact_links = [
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
+  
+
 
 ############################
 ## Social
@@ -257,3 +266,18 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+  
+############################
+## Content Management System
+############################
+[cms]
+ # Enable the admin panel. See https://wowchemy.com/docs/install/
+ netlify_cms = true
+  
+############################
+## Icon Pack Extensions
+############################
+[icon.pack]
+ ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  
+
