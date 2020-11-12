@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Land cover and its transformation in the backward trajectory footprint region of the Amazon Tall Tower Observatory"
-authors: [Christopher Pöhlker, David Walter, Hauke Paulsen, Tobias Könemann, Emilio Rodríguez-Caballero, Daniel Moran-Zuloaga, Joel Brito, Samara Carbone, Céline Degrendele, Viviane R. Després, Florian Ditas, Bruna A. Holanda, Johannes W. Kaiser, Gerhard Lammel, Jošt V. Lavrič, Jing Ming, Daniel Pickersgill, Mira L. Pöhlker, Maria Praß, Nina Löbs, Jorge Saturno, Matthias Sörgel, Qiaoqiao Wang, Bettina Weber, Stefan Wolff, Paulo Artaxo, Ulrich Pöschl, Meinrat O. Andreae]
+#authors: [Christopher Pöhlker, David Walter, Hauke Paulsen, Tobias Könemann, Emilio Rodríguez-Caballero, Daniel Moran-Zuloaga, Joel Brito, Samara Carbone, Céline Degrendele, Viviane R. Després, Florian Ditas, Bruna A. Holanda, Johannes W. Kaiser, Gerhard Lammel, Jošt V. Lavrič, Jing Ming, Daniel Pickersgill, Mira L. Pöhlker, Maria Praß, Nina Löbs, Jorge Saturno, Matthias Sörgel, Qiaoqiao Wang, Bettina Weber, Stefan Wolff, Paulo Artaxo, Ulrich Pöschl, Meinrat O. Andreae]
 date: 2019-07-03T13:11:53+02:00
 doi: "10.5194/acp-19-8425-2019"
 

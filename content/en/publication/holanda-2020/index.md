@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Influx of African biomass burning aerosol during the Amazonian dry season through layered transatlantic transport of black carbon-rich smoke"
-authors: [Bruna A. Holanda, Mira L. Pöhlker, David Walter, Jorge Saturno, Matthias Sörgel, Jeannine Ditas, Florian Ditas, Christiane Schulz, Marco Aurélio Franco, Qiaoqiao Wang, Tobias Donth, Paulo Artaxo, Henrique M. J. Barbosa, Stephan Borrmann, Ramon Braga, Joel Brito, Yafang Cheng, Maximilian Dollner, Johannes W. Kaiser, Thomas Klimach, Christoph Knote, Ovid O. Krüger, Daniel Fütterer, Jošt V. Lavrič, Nan Ma, Luiz A. T. Machado, Jing Ming, Fernando G. Morais, Hauke Paulsen, Daniel Sauer, Hans Schlager, Johannes Schneider, Hang Su, Bernadett Weinzierl, Adrian Walser, Manfred Wendisch, Helmut Ziereis, Martin Zöger, Ulrich Pöschl, Meinrat O. Andreae, Christopher Pöhlker]
+#authors: [Bruna A. Holanda, Mira L. Pöhlker, David Walter, Jorge Saturno, Matthias Sörgel, Jeannine Ditas, Florian Ditas, Christiane Schulz, Marco Aurélio Franco, Qiaoqiao Wang, Tobias Donth, Paulo Artaxo, Henrique M. J. Barbosa, Stephan Borrmann, Ramon Braga, Joel Brito, Yafang Cheng, Maximilian Dollner, Johannes W. Kaiser, Thomas Klimach, Christoph Knote, Ovid O. Krüger, Daniel Fütterer, Jošt V. Lavrič, Nan Ma, Luiz A. T. Machado, Jing Ming, Fernando G. Morais, Hauke Paulsen, Daniel Sauer, Hans Schlager, Johannes Schneider, Hang Su, Bernadett Weinzierl, Adrian Walser, Manfred Wendisch, Helmut Ziereis, Martin Zöger, Ulrich Pöschl, Meinrat O. Andreae, Christopher Pöhlker]
 date: 2020-04-25T19:15:59+02:00
 doi: "10.5194/acp-20-4757-2020"
 
