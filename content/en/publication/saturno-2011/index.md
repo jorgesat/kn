@@ -1,7 +1,7 @@
 +++
 title = "Electroanalytical detection of Pb, Cd and traces of Cr at micro/nano-structured bismuth film electrodes"
 date = 2011-11-01
-#authors = ["Jorge Saturno", "Danny Valera", "Hermes Carrero", "Lenys Fernández"]
+authors = ["Jorge Saturno", "Danny Valera", "Hermes Carrero", "Lenys Fernández"]
 publication_types = ["2"]
 abstract = ""
 selected = false
