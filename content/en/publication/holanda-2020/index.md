@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Atmospheric Chemistry and Physics"
-publication_short: "Atmos. Chem. Phys."
+# publication_short: "Atmos. Chem. Phys."
 
 abstract: "Black carbon (BC) aerosols influence the Earth's atmosphere and climate, but their microphysical properties, spatiotemporal distribution, and long-range transport are not well constrained. This study presents airborne observations of the transatlantic transport of BC-rich African biomass burning (BB) smoke into the Amazon Basin using a Single Particle Soot Photometer (SP2) as well as several complementary techniques. We base our results on observations of aerosols and trace gases off the Brazilian coast onboard the HALO (High Altitude and LOng range) research aircraft during the ACRIDICON-CHUVA campaign in September 2014.
 

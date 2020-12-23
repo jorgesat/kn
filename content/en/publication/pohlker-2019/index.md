@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Atmospheric Chemistry and Physics"
-publication_short: "Atmos. Chem. Phys."
+# publication_short: "Atmos. Chem. Phys."
 
 abstract: "The Amazon rain forest experiences the combined pressures from human-made deforestation and progressing climate change, causing severe and potentially disruptive perturbations of the ecosystem's integrity and stability. To intensify research on critical aspects of Amazonian biosphere–atmosphere exchange, the Amazon Tall Tower Observatory (ATTO) has been established in the central Amazon Basin. Here we present a multi-year analysis of backward trajectories to derive an effective footprint region of the observatory, which spans large parts of the particularly vulnerable eastern basin. Further, we characterize geospatial properties of the footprint regions, such as climatic conditions, distribution of ecoregions, land cover categories, deforestation dynamics, agricultural expansion, fire regimes, infrastructural development, protected areas, and future deforestation scenarios. This study is meant to be a resource and reference work, helping to embed the ATTO observations into the larger context of human-caused transformations of Amazonia. We conclude that the chances to observe an unperturbed rain forest–atmosphere exchange at the ATTO site will likely decrease in the future, whereas the atmospheric signals from human-made and climate-change-related forest perturbations will increase in frequency and intensity."
 
